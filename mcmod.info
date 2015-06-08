@@ -1,0 +1,15 @@
+[
+{
+"modid": "geology",
+"name": "Geology Mod",
+"description": "A mod which adds rock types and fluid mechanics",
+"version": "0.1",
+"url": "none so far",
+"authorList": ["Patrice Boivin"],
+"credits": "Thank you to the modders who took the time to post descriptive items on the 'net.",
+"logoFile": "assets/geology/geologyLogo.png",
+"screenshots": [],
+"dependencies": ["forge"],
+"mcversion": "1.6.2"
+}
+]
